@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Liberation Sans';
+	src: url('fonts/LiberationSans-Italic.ttf');
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Liberation Sans';
+	src: url('fonts/LiberationSans-Bold.ttf');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Liberation Sans';
+	src: url('fonts/LiberationSans-Regular.ttf');
+}
+
+body {
+	background-color: #b7cad8;\
+	margin: 0em;
+	font-family: 'Liberation Sans';
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
