@@ -8,16 +8,6 @@ Le site est hébergé sur une de mes instances OVH.
 
 Aucune. Le site est statique et peut être consulté en local.
 
-## Structure du dépôt Git
-
-./monkeypox
-	iso-patch
-		... Files to copy at the root of the to-be-built ISO image
-	kickstarts
-		... Anaconda kickstarts to run during installation
-	product
-		... Files necessary to build a SEALFAIL product.img file
-
 ## Contributing
 
 Les contributions sont les bienvenues. Afin de rendre les contributions accessibles à toustes, merci de les réaliser sous forme de pull request dans une branche dédiée.
