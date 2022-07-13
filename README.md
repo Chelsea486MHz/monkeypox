@@ -11,12 +11,10 @@ Aucune. Le site est statique et peut être consulté en local.
 ## Structure du dépôt Git
 
 ./monkeypox
-	iso-patch
-		... Files to copy at the root of the to-be-built ISO image
-	kickstarts
-		... Anaconda kickstarts to run during installation
-	product
-		... Files necessary to build a SEALFAIL product.img file
+	assets
+		... Images
+	fonts
+		... Police d'ecriture
 
 ## Contributing
 
