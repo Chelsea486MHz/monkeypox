@@ -8,14 +8,6 @@ Le site est hébergé sur une de mes instances OVH.
 
 Aucune. Le site est statique et peut être consulté en local.
 
-## Structure du dépôt Git
-
-./monkeypox
-	assets
-		... Images
-	fonts
-		... Police d'ecriture
-
 ## Contributing
 
 Les contributions sont les bienvenues. Afin de rendre les contributions accessibles à toustes, merci de les réaliser sous forme de pull request dans une branche dédiée.
